@@ -1,0 +1,77 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif
+    ;margin: 0 ;
+    background: linear-gradient(to right, #73bbe4, #e473de, #ee6969);
+    
+}
+
+header {
+    background-color: #3949ab;color:white;text-align: center;
+}
+
+h1 {
+    display: inline-block; width: 400px;font-weight: 700"
+}
+
+p {
+    display: inline-block;width: 400px; font-weight: 200;
+}
+
+.div-strong{
+    background-color: #f06292;text-align: center;padding: 10px;
+}
+
+section {
+    height: 200px; 
+    width: 900px; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.div-Education {
+    display: inline-block; 
+    width: 68%;
+}
+
+dt {
+    font-size: 22px;
+    margin-bottom: 12px; 
+    margin-top: 36px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 700px;
+}
+
+.image {
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.Profesional-Experience {
+    margin-top: 70px;
+}
+
+ul {
+    margin-top: 12px ;
+     padding: 0px;
+}
+
+a:hover {
+    background-color:#ccc;
+}
+
+li a {
+    transition: 0.4s all linear;
+         border-radius: 5px;
+         text-decoration: none;
+         color: blue;
+
+    
+}
+
+.Instagram {
+    color: coral;
+}
